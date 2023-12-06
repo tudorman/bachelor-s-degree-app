@@ -1,0 +1,45 @@
+.follow {
+  bottom: 0;
+  position: static;
+  width: 100%;
+}
+
+.followText {
+  background-color: #68bbe3;
+  color: whitesmoke;
+  font-size: x-large;
+  font-weight: 600;
+  height: fit-content;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  text-align: center;
+  vertical-align: middle;
+  word-spacing: 2px;
+}
+
+.followIcons {
+  background-color: #68bbe3;
+  color: whitesmoke;
+  font-size: x-large;
+  font-weight: 600;
+  height: fit-content;
+  padding-bottom: 17px;
+  text-align: center;
+  vertical-align: middle;
+  word-spacing: 2px;
+}
+
+.rightsReserved {
+  background-color: #0f52ba;
+  bottom: 0;
+  color: whitesmoke;
+  font-weight: 600;
+  height: fit-content;
+  margin: 0;
+  padding-bottom: 10px;
+  padding-top: 15px;
+  text-align: center;
+  vertical-align: middle;
+  width: 100%;
+  word-spacing: 2px;
+}

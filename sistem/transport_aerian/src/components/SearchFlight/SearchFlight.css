@@ -1,0 +1,137 @@
+.mainBody {
+  background-color: whitesmoke;
+  background-image: url(https://wallpaperaccess.com/full/445636.jpg);
+  background-size: cover;
+  height: 800px;
+  width: 100%;
+}
+
+.searchForm {
+  background-color: #0096ff;
+  border: navy;
+  border-radius: 25px;
+  color: whitesmoke;
+  font-family: "Trebuchet MS", sans-serif;
+  height: fit-content;
+  margin-right: 100px;
+  margin-left: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-bottom: 55px;
+}
+
+.formHeader {
+  color: whitesmoke;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: x-large;
+  font-weight: 600;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.radioGroup {
+  margin-bottom: 25px;
+  margin-left: 50px;
+}
+
+.labelRG {
+  line-height: 5px;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
+.labelsFormInputs {
+  line-height: 50px;
+  margin-left: 15px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+  margin-bottom: 25px;
+}
+
+.inputsOneWay {
+  display: none;
+  margin-left: 20px;
+  margin-bottom: 25px;
+}
+
+.inputSearchAirport {
+  border: whitesmoke;
+  border-radius: 5px;
+  height: 50px;
+  padding-left: 2px;
+  text-align: left;
+  width: 300px;
+}
+
+.inputSearchDate {
+  border: whitesmoke;
+  border-radius: 5px;
+  height: 50px;
+  padding-left: 2px;
+  text-align: center;
+}
+
+.inputSearchNumber {
+  border: whitesmoke;
+  border-radius: 5px;
+  height: 50px;
+  text-align: center;
+  width: 100px;
+}
+
+.searchButton {
+  float: right;
+  margin-right: 30px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.discoverPlaces {
+  background-color: whitesmoke;
+  font-size: x-large;
+  font-weight: 600;
+  margin-top: 348px;
+  padding-left: 20px;
+  padding-top: 25px;
+  text-align: center;
+}
+
+.pictures {
+  display: flex;
+  margin-top: 50px;
+  padding-bottom: 40px;
+}
+
+.left {
+  display: flex;
+  float: left;
+  width: 50%;
+}
+
+.right {
+  display: flex;
+  float: right;
+  width: 50%;
+}
+
+.picture {
+  float: left;
+  margin-left: 20px;
+}
+
+.picture:hover {
+  cursor: pointer;
+}
+
+.description {
+  float: right;
+  font-size: large;
+  margin-left: 20px;
+}

@@ -1,0 +1,171 @@
+.userMenuHeader {
+  background-color: #68bbe3;
+  color: whitesmoke;
+  display: flex;
+  height: fit-content;
+  vertical-align: middle;
+}
+
+.logoDiv {
+  float: left;
+}
+
+.welcomeTextDiv {
+  padding-top: 20px;
+  margin-left: 40px;
+}
+
+.actualMenuDiv {
+  display: flex;
+  flex-direction: row;
+}
+
+.menuInstructionsDiv {
+  float: left;
+  margin-bottom: 40px;
+}
+
+.menuInstruction {
+  background-color: #0f52ba;
+  border: 3px solid whitesmoke;
+  border-radius: 15px;
+  color: whitesmoke;
+  display: flex;
+  flex-direction: row;
+  font-family: system-ui, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu,
+    "Helvetica Neue", sans-serif;
+  font-weight: 600;
+  justify-content: left;
+  line-height: 30px;
+  margin-top: 40px;
+  margin-left: 60px;
+  padding-top: 15px;
+  padding-right: 35px;
+  padding-bottom: 10px;
+  padding-left: 35px;
+  text-align: right;
+  text-indent: 15px;
+  vertical-align: middle;
+  width: 275px;
+}
+
+.menuInstruction:hover {
+  background-color: darkblue;
+}
+
+.myInfoDiv {
+  background-color: #0f52ba;
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+  color: whitesmoke;
+  display: flex;
+  font-size: 100%;
+  font-family: system-ui, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu,
+    "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  height: 650px;
+  margin-left: 100px;
+  padding: 40px;
+  width: fit-content;
+}
+
+.myInfoLabels {
+  float: left;
+}
+
+.myInfoInputs {
+  float: right;
+}
+
+.userInfoDiv {
+  float: right;
+  margin: 50px;
+}
+
+#bookingsHistory,
+#upcomingTrips,
+#creditCards {
+  display: none;
+}
+
+.infoInput {
+  border-radius: 5px;
+  height: 23.5px;
+  margin-top: 10px;
+  text-align: center;
+  width: 500px;
+}
+
+.labelInfo {
+  height: 10px;
+  margin-top: 10px;
+  width: 200px;
+}
+
+.rootBooking,
+.rootTrip {
+  background-color: #0f52ba;
+  border: 2px solid black;
+  border-radius: 20px;
+  color: whitesmoke;
+  height: fit-content;
+  justify-content: center;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  padding: 30px;
+  width: fit-content;
+}
+
+.rootCard {
+  background-color: #0f52ba;
+  border: 2px solid black;
+  border-radius: 10px;
+  color: whitesmoke;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  padding: 20px;
+  width: fit-content;
+}
+
+#btnDelCard {
+  margin: 15px;
+}
+
+.labelsAndInputsBooking {
+  display: flex;
+}
+
+.labelsBooking {
+  float: left;
+  height: 20px;
+  vertical-align: middle;
+}
+
+.inputsBooking {
+  float: right;
+}
+
+#addCardBtn {
+  margin-left: 50px;
+}
+
+.tripBtns {
+  display: flex;
+}
+
+.generateTicketDiv {
+  float: left;
+  padding-left: 15%;
+  width: 50%;
+}
+
+.deleteTripDiv {
+  float: right;
+  padding-left: 15%;
+  width: 50%;
+}
+
+.QRDiv {
+  justify-content: center;
+  text-align: center;
+}

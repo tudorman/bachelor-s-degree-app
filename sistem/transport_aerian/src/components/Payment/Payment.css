@@ -1,0 +1,59 @@
+.payNowDiv {
+  background-color: #68bbe3;
+  color: whitesmoke;
+  font-family: system-ui, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu,
+    "Helvetica Neue", sans-serif;
+  font-weight: 600;
+  height: fit-content;
+  margin: 0;
+  padding: 30px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.divCardLabel {
+  margin: 40px;
+}
+
+.divCardContents {
+  text-align: center;
+}
+
+.divCardInput {
+  justify-content: center;
+  text-align: center;
+}
+
+.inputCard {
+  border: 1px solid black;
+  border-radius: 10px;
+  height: fit-content;
+  text-align: center;
+  width: 400px;
+}
+
+.selectCard {
+  border: 1px solid black;
+  border-radius: 10px;
+  height: fit-content;
+  margin: 5px;
+  width: 200px;
+}
+
+.expiryDateDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.expiryMonthDiv {
+  float: left;
+}
+
+.termsAndConditionsDiv {
+  margin: 25px;
+}
+
+.payLabel {
+  margin-left: 10px;
+}

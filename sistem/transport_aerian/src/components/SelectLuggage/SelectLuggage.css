@@ -1,0 +1,88 @@
+.selectLuggageDiv {
+  background-color: #68bbe3;
+  color: whitesmoke;
+  font-family: system-ui, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu,
+    "Helvetica Neue", sans-serif;
+  font-weight: 600;
+  height: fit-content;
+  margin: 0;
+  padding: 50px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#passenger {
+  margin: 40px;
+}
+
+.luggageType {
+  border: 3px solid black;
+  border-radius: 10px;
+  display: flex;
+  margin: 60px;
+  padding: 25px;
+  vertical-align: middle;
+}
+
+.luggageImage {
+  float: left;
+  margin-left: 20px;
+  width: 25%;
+}
+
+.dimensions {
+  float: left;
+  margin-left: 60px;
+  vertical-align: middle;
+  width: 50%;
+}
+
+.additionalFee {
+  float: right;
+  text-align: center;
+  width: 25%;
+}
+
+#included {
+  color: green;
+}
+
+.proceedInsuranceBtn {
+  margin-bottom: 100px;
+}
+
+#toInsuranceBtn {
+  float: right;
+  margin-bottom: 50px;
+  position: absolute;
+  right: 60px;
+}
+
+.labelSelection {
+  margin: 0px 10px 20px 60px;
+}
+
+.inputSelection {
+  border-radius: 5px;
+  text-align: center;
+  width: 200px;
+}
+
+#inputLuggageList {
+  width: 800px;
+}
+
+.btnConfirmSelection {
+  bottom: -50px;
+  position: absolute;
+  right: 60px;
+}
+
+.confirmSelection {
+  display: flex;
+}
+
+.passengerSelection {
+  float: left;
+  width: 80%;
+}

@@ -1,0 +1,115 @@
+.reservationDetailsDiv {
+  background-color: #68bbe3;
+  color: whitesmoke;
+  font-family: system-ui, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu,
+    "Helvetica Neue", sans-serif;
+  font-weight: 600;
+  height: fit-content;
+  margin: 0;
+  padding: 30px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.reservationDetailsArea {
+  background-image: url(https://img.freepik.com/premium-vector/plane-sky-clouds-element-outline-doodle-sketch-simple-line-drawing-style-template-isolated_399998-317.jpg?w=2000);
+  background-size: cover;
+  display: flex;
+}
+
+.reservationLeftArea {
+  background-color: rgba(73, 73, 255, 0.9);
+  border-radius: 25px;
+  color: whitesmoke;
+  float: left;
+  margin: 80px;
+  width: 50%;
+}
+
+.reservationHeader {
+  color: whitesmoke;
+  padding: 30px;
+  text-align: center;
+}
+
+.properDetails,
+.flightTicketPrices {
+  padding: 20px 40px;
+}
+
+.detailsLabels {
+  float: left;
+}
+
+.reservationRightArea {
+  background-color: rgba(73, 73, 255, 0.9);
+  border-radius: 25px;
+  color: whitesmoke;
+  float: right;
+  height: fit-content;
+  margin: 80px;
+  width: 30%;
+}
+
+.flightPrices,
+.luggagePrices,
+.insurancePrices {
+  margin-top: 30px;
+}
+
+.btnToPayment {
+  justify-content: center;
+  margin: 40px;
+  text-align: center;
+}
+
+.infoBlock {
+  display: flex;
+}
+
+.infoLabels {
+  float: left;
+  width: 35%;
+}
+
+.infoInputsReservation {
+  float: right;
+  justify-content: right;
+  text-align: right;
+  width: 50%;
+}
+
+.infoInputReservation {
+  border-radius: 5px;
+  height: 20px;
+  text-align: center;
+  width: 550px;
+}
+
+.pricesInfo {
+  display: flex;
+}
+
+.pricesLabels {
+  float: left;
+  width: 50%;
+}
+
+.pricesInputs {
+  float: right;
+  width: 50%;
+}
+
+.pricesInfoReservation {
+  border-radius: 5px;
+  height: 20px;
+  text-align: center;
+  width: 250px;
+}
+
+.totalPriceInput {
+  border-radius: 10px;
+  height: 40px;
+  text-align: center;
+  width: 400px;
+}

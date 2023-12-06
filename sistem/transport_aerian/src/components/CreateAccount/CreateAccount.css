@@ -1,0 +1,96 @@
+.entireFormCreate {
+  background-image: url(https://wallpapercave.com/wp/wp5569650.jpg);
+  background-size: cover;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  padding: 10px;
+}
+
+#welcomeHeaderCreate,
+#registerHeader {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.logoHeader {
+  justify-content: center;
+  text-align: center;
+}
+
+.formCreate {
+  justify-content: center;
+  text-align: center;
+}
+
+.divisionDiv {
+  display: flex;
+  margin-bottom: 25px;
+}
+
+.leftDiv {
+  float: left;
+  justify-content: right;
+  text-align: right;
+  width: 42%;
+}
+
+.labelFormCreate {
+  margin: 0px 5px 0px 5px;
+}
+
+.rightDiv {
+  float: right;
+  justify-content: left;
+  text-align: left;
+  width: 58%;
+}
+
+.checkDiv {
+  margin-top: 20px;
+  padding-left: 675px;
+  text-align: left;
+}
+
+.btnRegister {
+  justify-content: center;
+  margin: 20px;
+  text-align: center;
+}
+
+#goToLoginParag {
+  margin: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.inputClassCreate {
+  border-radius: 5px;
+  height: 28px;
+  text-align: center;
+  vertical-align: middle;
+  width: 400px;
+}
+
+.inputClassDateNumber {
+  border-radius: 5px;
+  height: 28px;
+  text-align: center;
+  width: 400px;
+}
+
+.inputDate {
+  height: 5px;
+  text-align: center;
+  width: 200px;
+}
+
+input[type="radio"] {
+  margin-left: 10px;
+}
+
+.radioLabel {
+  margin: 0px 10px;
+}

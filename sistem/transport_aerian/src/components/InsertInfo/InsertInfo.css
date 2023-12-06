@@ -1,0 +1,86 @@
+.insertInfoDiv {
+  background-color: #68bbe3;
+  color: whitesmoke;
+  font-family: system-ui, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu,
+    "Helvetica Neue", sans-serif;
+  font-weight: 600;
+  height: fit-content;
+  margin: 0;
+  padding: 50px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.rootInfoForm {
+  display: flex;
+  margin: 50px;
+}
+
+.formLabelDiv {
+  float: left;
+  margin-left: 40px;
+  padding-top: 5px;
+  vertical-align: middle;
+  width: 30%;
+}
+
+.formInputDiv {
+  float: right;
+}
+
+.labelFormInfo,
+.inputFieldInfo {
+  border-radius: 5px;
+  height: 40px;
+  margin-bottom: 10px;
+  width: fit-content;
+}
+
+.inputFieldInfo {
+  border: 1px solid rgb(38, 172, 255);
+  padding-left: 10px;
+}
+
+#lastNameInput,
+#firstnameInput,
+#documentInput,
+#categorySelect {
+  width: 400px;
+}
+
+#birthDateDay,
+#expiryDateDay,
+#titleSelect {
+  text-align: center;
+  width: 80px;
+}
+
+#birthDateMonth,
+#expiryDateMonth {
+  margin-left: 15px;
+  text-align: center;
+  width: 160px;
+}
+
+#birthDateYear,
+#expiryDateYear {
+  margin-left: 15px;
+  text-align: center;
+  width: 120px;
+}
+
+#documentSelect,
+#nationalitySelect {
+  width: 160px;
+}
+
+.btnToSeats {
+  margin-bottom: 125px;
+}
+
+#toSeatsBtn {
+  float: right;
+  margin-bottom: 75px;
+  position: absolute;
+  right: 60px;
+}

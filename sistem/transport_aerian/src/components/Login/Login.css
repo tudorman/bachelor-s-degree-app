@@ -1,0 +1,64 @@
+.login {
+  background-image: url(https://www.cnet.com/a/img/resize/07994e482fe47367d5cbb460697d8d3fcc0c6c6a/hub/2017/10/02/60f56802-537d-4f69-bea4-0b552c952f11/security-privacy-hackers-locks-key-6722.jpg?auto=webp&fit=crop&height=675&width=1200);
+  background-size: cover;
+  justify-content: center;
+  padding: 25px;
+  text-align: center;
+}
+
+#welcomeHeader {
+  color: whitesmoke;
+  font-weight: 800;
+  margin-top: 30px;
+  padding-bottom: 25px;
+}
+
+.formLogin {
+  display: flex;
+  margin-top: 56px;
+  margin-bottom: 50px;
+}
+
+.labelsLogin {
+  color: whitesmoke;
+  float: left;
+  font-weight: 600;
+  justify-content: right;
+  margin-right: 15px;
+  text-align: right;
+  vertical-align: middle;
+  width: 45%;
+}
+
+.inputsLogin {
+  float: right;
+  justify-content: left;
+  text-align: left;
+  width: 55%;
+}
+
+.labelLogin {
+  border: whitesmoke;
+  border-radius: 15px;
+  height: 35px;
+  margin-top: 25px;
+  width: 280px;
+}
+
+.inputLogin {
+  border: whitesmoke;
+  border-radius: 15px;
+  height: 35px;
+  margin-top: 25px;
+  text-align: center;
+  width: 280px;
+}
+
+#welcomeHeader {
+  padding-top: 30px;
+}
+
+#paragAccount {
+  color: whitesmoke;
+  margin: 30px 0px;
+}

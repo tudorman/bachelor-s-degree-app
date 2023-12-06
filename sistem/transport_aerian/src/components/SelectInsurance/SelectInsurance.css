@@ -1,0 +1,76 @@
+.selectInsuranceDiv {
+  background-color: #68bbe3;
+  color: whitesmoke;
+  font-family: system-ui, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu,
+    "Helvetica Neue", sans-serif;
+  font-weight: 600;
+  height: fit-content;
+  margin: 0;
+  padding: 50px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.insuranceType {
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  display: flex;
+  margin: 40px 60px;
+  padding: 20px;
+}
+
+.insuranceImage {
+  margin-left: 30px;
+  float: left;
+}
+
+.insuranceExplanation {
+  margin-left: 40px;
+  float: left;
+  margin-left: 100px;
+  padding-top: 35px;
+  vertical-align: middle;
+  width: 1000px;
+}
+
+.insuranceFee {
+  padding-top: 35px;
+  text-align: right;
+  vertical-align: middle;
+}
+
+.insuranceOptionDiv {
+  display: flex;
+}
+
+.continueWithoutInsuranceDiv {
+  float: left;
+  margin-left: 60px;
+  margin-bottom: 40px;
+}
+
+.proceedToPayment {
+  float: right;
+  position: absolute;
+  right: 60px;
+}
+
+.insurancesChoices {
+  margin: 60px;
+}
+
+.labelInsuranceChoice {
+  margin-left: 10px;
+}
+
+.inputInsuranceChoice {
+  border-radius: 5px;
+  margin-left: 15px;
+  padding-left: 10px;
+  text-align: center;
+}
+
+#insurancesListInput {
+  width: 1000px;
+}

@@ -1,0 +1,114 @@
+.detailsHeader {
+  background-color: darkblue;
+  font-weight: 500;
+  padding-left: 250px;
+  padding-top: 35px;
+}
+
+#detailHeader {
+  color: whitesmoke;
+}
+
+#OneWayDetails {
+  display: none;
+}
+
+.searchInputs {
+  color: whitesmoke;
+  margin-top: 25px;
+}
+
+.searchInput {
+  border-radius: 20px;
+  border-color: navy;
+  border-width: 2px;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.workingArea {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.leftWorkingArea {
+  float: left;
+  width: 15%;
+}
+
+.filtersDiv {
+  background-color: navy;
+  border-radius: 10px;
+  color: whitesmoke;
+  margin: 40px;
+  padding: 15px;
+}
+
+.rightWorkingArea {
+  float: right;
+  margin-left: 40px;
+  width: 80%;
+}
+
+.sortButtons {
+  margin: 40px;
+}
+
+#cheapestBtn,
+#fastestBtn {
+  margin-left: 25px;
+}
+
+table {
+  background-color: #0f52ba;
+  border-radius: 15px;
+  border-spacing: 20px;
+  font-family: system-ui, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu,
+    "Helvetica Neue", sans-serif;
+  font-size: medium;
+  margin-left: 40px;
+  padding: 15px;
+  width: 80%;
+}
+
+thead {
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+
+tbody {
+  border-radius: 15px;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+
+tfoot {
+  font-weight: 200;
+}
+
+th {
+  margin-bottom: 25px;
+}
+
+tr {
+  border: 4px solid rgb(255, 255, 255);
+  border-radius: 30px;
+  color: whitesmoke;
+  text-align: center;
+}
+
+td {
+  border: 4px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  padding: 10px 30px 10px 30px;
+}
+
+.filterLabel {
+  margin-left: 5px;
+}
+
+.choosePageBtn {
+  margin: 20px 0 0 20px;
+}

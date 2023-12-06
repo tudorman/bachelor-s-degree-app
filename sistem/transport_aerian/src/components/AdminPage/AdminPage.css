@@ -1,0 +1,86 @@
+.adminHeader {
+  background-color: #68bbe3;
+  color: whitesmoke;
+  font-family: system-ui, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu,
+    "Helvetica Neue", sans-serif;
+  font-weight: 600;
+  height: fit-content;
+  margin: 0 0 25px 0;
+  padding: 30px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.adminWorkingArea {
+  display: flex;
+}
+
+.adminLeftWA {
+  float: left;
+  width: 20%;
+}
+
+.adminRightWA {
+  float: right;
+  width: 80%;
+}
+
+.adminItem {
+  background-color: #0f52ba;
+  border: 3px solid whitesmoke;
+  border-radius: 15px;
+  color: whitesmoke;
+  display: flex;
+  flex-direction: row;
+  font-family: system-ui, -apple-system, system-ui, "Segoe UI", Roboto, Ubuntu,
+    "Helvetica Neue", sans-serif;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 30px;
+  margin-top: 40px;
+  margin-left: 60px;
+  padding-top: 15px;
+  padding-right: 35px;
+  padding-bottom: 10px;
+  padding-left: 35px;
+  vertical-align: middle;
+  width: 300px;
+}
+
+.adminItem:hover {
+  background-color: darkblue;
+  cursor: pointer;
+}
+
+.dbShow {
+  margin: 40px;
+}
+
+#locationsInputs,
+#departmentsInputs,
+#employeesInputs {
+  display: none;
+  margin: 20px;
+}
+
+.locationAddition {
+  margin: 20px;
+}
+
+.locationLabel,
+.locationInput {
+  border-radius: 10px;
+  margin: 10px;
+  text-align: center;
+  width: 400px;
+}
+
+.plotDiv {
+  display: none;
+  justify-content: center;
+  text-align: center;
+}
+
+#monthlyIncomePlot {
+  width: 87%;
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "airportCode": "LHR",
+    "latitude": 51.470025,
+    "longitude": -0.454295,
+    "airportName": "Heathrow Airport",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "airportCode": "CDG",
+    "latitude": 49.0097,
+    "longitude": 2.5479,
+    "airportName": "Charles de Gaulle Airport",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "airportCode": "FRA",
+    "latitude": 50.0341,
+    "longitude": 8.5607,
+    "airportName": "Frankfurt Airport",
+    "city": "Frankfurt",
+    "country": "Germany"
+  },
+  {
+    "airportCode": "AMS",
+    "latitude": 52.3105,
+    "longitude": 4.7683,
+    "airportName": "Amsterdam Airport Schiphol",
+    "city": "Amsterdam",
+    "country": "Netherlands"
+  },
+  {
+    "airportCode": "FCO",
+    "latitude": 41.8003,
+    "longitude": 12.2389,
+    "airportName": "Leonardo da Vinci International Airport",
+    "city": "Rome",
+    "country": "Italy"
+  },
+  {
+    "airportCode": "MAD",
+    "latitude": 40.472,
+    "longitude": -3.5636,
+    "airportName": "Adolfo Suárez Madrid–Barajas Airport",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "airportCode": "BCN",
+    "latitude": 41.2969,
+    "longitude": 2.0785,
+    "airportName": "Barcelona–El Prat Airport",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "airportCode": "CPH",
+    "latitude": 55.6291,
+    "longitude": 12.6492,
+    "airportName": "Copenhagen Airport",
+    "city": "Copenhagen",
+    "country": "Denmark"
+  },
+  {
+    "airportCode": "ARN",
+    "latitude": 59.6519,
+    "longitude": 17.9186,
+    "airportName": "Stockholm Arlanda Airport",
+    "city": "Stockholm",
+    "country": "Sweden"
+  },
+  {
+    "airportCode": "ZRH",
+    "latitude": 47.4502,
+    "longitude": 8.5604,
+    "airportName": "Zurich Airport",
+    "city": "Zurich",
+    "country": "Switzerland"
+  },
+  {
+    "airportCode": "WAW",
+    "latitude": 52.1657,
+    "longitude": 20.9671,
+    "airportName": "Warsaw Chopin Airport",
+    "city": "Warsaw",
+    "country": "Poland"
+  },
+  {
+    "airportCode": "IST",
+    "latitude": 40.9769,
+    "longitude": 28.8146,
+    "airportName": "Istanbul Airport",
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "airportCode": "BUD",
+    "latitude": 47.436901,
+    "longitude": 19.2556,
+    "airportName": "Budapest Ferenc Liszt International Airport",
+    "city": "Budapest",
+    "country": "Hungary"
+  },
+  {
+    "airportCode": "OTP",
+    "latitude": 44.571111,
+    "longitude": 26.085,
+    "airportName": "Henri Coanda International Airport",
+    "city": "Bucharest",
+    "country": "Romania"
+  },
+  {
+    "airportCode": "KTW",
+    "latitude": 50.474253,
+    "longitude": 19.080019,
+    "airportName": "Katowice International Airport",
+    "city": "Katowice",
+    "country": "Poland"
+  },
+  {
+    "airportCode": "SKP",
+    "latitude": 41.960873,
+    "longitude": 21.625824,
+    "airportName": "Skopje International Airport",
+    "city": "Skopje",
+    "country": "North Macedonia"
+  },
+  {
+    "airportCode": "LCA",
+    "latitude": 34.872158,
+    "longitude": 33.62485,
+    "airportName": "Larnaca International Airport",
+    "city": "Larnaca",
+    "country": "Cyprus"
+  }
+]
